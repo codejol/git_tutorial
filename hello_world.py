@@ -1,4 +1,4 @@
-def test():
-	print "hesssssllo world GIT"
+def function():
+	print "hello world GITssss"
 
-test()
+function()
